@@ -1,0 +1,10 @@
+O Git é diferente do Git Hub;
+Os comandos são:
+- git init
+- git add
+- git commit 
+- ls -a  (para ver arquivos ocultos)
+- git config --global user.email
+- git config --global user.name
+
+Os objetos fundamentais são as Blobs, as trees e os commits.
